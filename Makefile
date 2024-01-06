@@ -3,4 +3,4 @@ install:
 		pip install librosa
 
 clean:
-		rm -rf output.wav
+		rm -rf OUTPUTFILE.wav
